@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'Monda';
+  src: url('/public/fonts/monda/Monda-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Monda';
+  src: url('/public/fonts/monda/Monda-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Monda';
+  src: url('/public/fonts/monda/Monda-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Monda';
+  src: url('/public/fonts/monda/Monda-SemiBold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Monda', sans-serif;
+}
+
+.rajdhani {
+  font-family: 'Rajdhani', sans-serif;
+}
+
+.rajdhani-bold {
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: bold;
+}
+
+.monda-Bold {
+  font-family: 'Monda', sans-serif;
+  font-weight: bold;
+}
+
+.monda-Medium {
+  font-family: 'Monda', sans-serif;
+  font-weight: 500;
+}
+
+.monda-Regular {
+  font-family: 'Monda', sans-serif;
+}
+
+.monda-SemiBold {
+  font-family: 'Monda', sans-serif;
+  font-weight: bold;
+}
